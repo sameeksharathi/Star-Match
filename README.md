@@ -7,4 +7,4 @@ Run: `http://localhost:1234/`
 
 Cases:
 
-<img src= "1.png">
+<img src= "Images/1.png">
