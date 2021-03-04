@@ -5,7 +5,7 @@ Built using React
 Run: `http://localhost:1234/`
 
 
-Cases:
+### Cases:
 
 <img src= "Images/1.png" width="550" height ="300" padding ="200px">
 <img src= "Images/2.png" width="550" height ="300" padding ="200px">
